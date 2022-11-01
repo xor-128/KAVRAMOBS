@@ -5,7 +5,7 @@ OBS Mail bildirimleri için service worker.
 # Kurulum
 
  - Programı açın.
- - https://test-6d179.web.app'e gidip cihaz tokeninizi alın (Bildirimlere izin verdikten sonra token gözükür).
+ - https://test-6d179.web.app gidip cihaz tokeninizi alın (Bildirimlere izin verdikten sonra token gözükür).
  - (Opsiyonel) Aynı işlemi telefon, tablet, PC gibi cihazlarda yapın.
  - Bu tokenleri teker teker konsol ekranına yapıştırıp enter'a basın.
  - Tüm cihazlar bittiğinde bir şey yazmadan tekrar enter'a basın.
